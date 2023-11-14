@@ -1,0 +1,11 @@
+.menu{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+body{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
